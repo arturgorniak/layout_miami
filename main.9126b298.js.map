@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/main.js"],"names":[],"mappings":";AAAA","file":"main.9126b298.js","sourceRoot":"..\\src","sourcesContent":["'use strict';\n\n// function openMenu() {\n//   document.body.classList.add('menu-open');\n// }\n\n// function closeMenu() {\n//   document.body.classList.remove('menu-open');\n// }\n"]}
